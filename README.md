@@ -12,19 +12,18 @@ This repository contains my homework solutions from Modules 1 and 2 of this cour
 - Rosalind 8: Translating RNA into Protein
 - Rosalind 9: Computing GC Content
 
-
-  ## **Module 2**
-  - ROSALIND 10: Compute the Number of Times a Pattern Appears in a Text
-  - ROSALIND 11: Find the Most Frequent Words in a String
-  - ROSALIND 12: Implement PatternToNumber
-  - ROSALIND 13: Implement NumberToPattern
-  - ROSALIND 14: Generate the Frequency Array of a String
-  - ROSALIND 15: Find All Occurrences of a Pattern in a String
-  - ROSALIND 16: Find Patterns Forming Clumps in a String
-  - ROSALIND 17: Find a Position in a Genome Minimizing the Skew
-  - ROSALIND 18: Compute the Hamming Distance Between Two Strings
-  - ROSALIND 19: Generate the d-Neighborhood of a String
-  - ROSALIND 20: Find All Approximate Occurrences of a Pattern in a String
-  - ROSALIND 21: Find the Most Frequent Words with Mismatches in a String
-  - ROSALIND 22: Find the Reverse Complement of a String
-  - ROSALIND 23: Find Frequent Words with Mismatches and Reverse Complements
+ ## **Module 2**
+- ROSALIND 10: Compute the Number of Times a Pattern Appears in a Text
+- ROSALIND 11: Find the Most Frequent Words in a String
+- ROSALIND 12: Implement PatternToNumber
+- ROSALIND 13: Implement NumberToPattern
+- ROSALIND 14: Generate the Frequency Array of a String
+- ROSALIND 15: Find All Occurrences of a Pattern in a String
+- ROSALIND 16: Find Patterns Forming Clumps in a String
+- ROSALIND 17: Find a Position in a Genome Minimizing the Skew
+- ROSALIND 18: Compute the Hamming Distance Between Two Strings
+- ROSALIND 19: Generate the d-Neighborhood of a String
+- ROSALIND 20: Find All Approximate Occurrences of a Pattern in a String
+- ROSALIND 21: Find the Most Frequent Words with Mismatches in a String
+- ROSALIND 22: Find the Reverse Complement of a String
+- ROSALIND 23: Find Frequent Words with Mismatches and Reverse Complements
