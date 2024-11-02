@@ -1,5 +1,4 @@
 # **Bioinformatics - BIOL 3340/5340 Fall 2024**
----------------------------------------------------
 This repository contains my homework solutions from Modules 1 and 2 of this course, completed using Python in Spyder. The assignments were done on [ROSALIND](https://rosalind.info/problems/list-view/), an online platform that teaches bioinformatics and programming through problem-solving.
 
 ## **Module 1**
